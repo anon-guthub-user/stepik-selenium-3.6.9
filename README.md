@@ -1,1 +1,2 @@
-# stepik-selenium-3.6.9
+### About
+This repo is for peer review task in [this course](https://stepik.org/course/575).
